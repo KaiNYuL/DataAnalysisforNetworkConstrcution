@@ -1,0 +1,14 @@
+flask
+flask-cors
+pandas
+numpy
+scipy
+networkx
+matplotlib
+seaborn
+openpyxl
+csv
+json
+os
+pathlib
+werkzeug
